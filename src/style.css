@@ -1,0 +1,29 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 16px;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+nav button {
+    border: 1px solid #ccc;
+    padding: 8px 16px;
+    background-color: inherit;
+    cursor: pointer;
+}
+
+nav button:hover {
+    background-color: #e0e0e0;
+}
+
+#content {
+    padding: 16px;
+}
